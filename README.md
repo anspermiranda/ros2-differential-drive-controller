@@ -116,9 +116,6 @@ ros2-differential-drive-controller/
 │   ├── digital_enforcer_controller_pkg/
 │   └── digital_enforcer_launch_pkg/
 │
-├── docs/
-│   └── coursework.pdf
-│
 └── README.md
 ```
 
